@@ -1,0 +1,131 @@
+[
+    {
+        "dr": "Marrakech-Safi",
+        "subdr": [
+            {
+                "ville": "Marrakech",
+                "etablissement": [
+                    {"eta":"Centre de Qualification Professionnelle Al Massira Daoudiate - Marrakech", "val":"cqpmdm"},
+                    {"eta":"Institut Spécialisé de Gestion et d'Informatique - Marrakech", "val":"isgim"},
+                    {"eta":"Centre de Sauvegarde de la Jeune Fille - Marrakech", "val":"csjfm"},
+                    {"eta":"Institut Spécialisé de l'Hôtellerie et de la Restauration - Marrakech", "val":"ishrm"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée Bab Doukkala - Marrakech", "val":"istabdm"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée de Textile et Confection Daoudiate - Marrakech", "val":"istatcdm"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée Jbel Lakhdar - Marrakech", "val":"istajlm"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée Maintenance Hôtelière - Marrakech", "val":"istamhm"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée NTIC Sidi Youssef Ben Ali - Marrakech", "val":"istanticm"},
+                    {"eta":"Institut Spécialisé Industriel - Marrakech", "val":"isim"},
+                    {"eta":"Centre Socio-Educatif El Machouar Kasbah - Marrakech", "val":"csemkm"},
+                    {"eta":"Centre de Développement des Compétences Hôtellerie Tourisme - Marrakech", "val":"cdcht"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée Azli - Marrakech", "val":"istaam"},
+                    {"eta":"Centre de Formation dans les Métiers du Bâtiment - Marrakech", "val":"cfmbm"}
+                ]
+            },
+            {
+                "ville": "Safi",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie en Hôtellerie et de Tourisme - Safi", "val":"isthts"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée 2 - Safi", "val":"ista2s"},
+                    {"eta":"Centre Mixte de Formation Professionnelle - Safi", "val":"cmfps"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée 1 - Safi", "val":"ista1s"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée NTIC - Safi", "val":"istantics"},
+                    {"eta":"Centre de Qualification Professionnelle Sidi Ouassel - Safi", "val":"cqpsos"}
+                ]
+            },
+            {
+                "ville": "Tamensourt",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Tamensourt", "val":"istat"}
+                ]
+            },
+            {
+                "ville": "Bengrir",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé dans les Métiers du Transport Routier et Logistique - Benguerir", "val":"ismtrlb"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Bengrir", "val":"istab"}
+                ]
+            },
+            {
+                "ville": "Chichaoua",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Chichaoua", "val":"istac"}
+                ]
+            },
+            {
+                "ville": "Tahannout",
+                "etablissement": [
+                    {"eta":"Centre de Qualification Professionnelle - Tahannaout", "val":"capt"}
+                ]
+            },
+            {
+                "ville": "Essaouira",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie en Hôtellerie et de Tourisme - Essaouira", "val":"isthte"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Essaouira", "val":"istae"}
+                ]
+            },
+            {
+                "ville": "Kalaa Des Sraghnas",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Kalaa-Sraghna", "val":"istaks"}
+                ]
+            },
+            {
+                "ville": "Youssoufia",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Youssoufia", "val":"istay"}
+                ]
+            },
+            {
+                "ville": "El haouz",
+                "etablissement": [
+                    {"eta":"Néant", "val":"None"}
+                ]
+            }
+        ]
+    },
+    {
+        "dr": "DARAA-TAFILALT",
+        "subdr": [
+            {
+                "ville": "Ouarzazate",
+                "etablissement": [
+                    {"eta":"Institut Spécialisté de Technologie Appliquée - Ouarzazate", "val":"istao"}
+                ]
+            },
+            {
+                "ville": "Zagora",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Zagora", "val":"istaz"}
+                ]
+            },
+            {
+                "ville": "Errachidia",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé du Bâtiment et des Travaux Publiques - Errachidia", "val":"isbtpe"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée Goulmima", "val":"istag"},
+                    {"eta":"Institut Spécialisé de Technologie Appliquée Mohamed El Fassi - Errachidia", "val":"istamfe"}
+                ]
+            },
+            {
+                "ville": "Midelt",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Midelt", "val":"istam"}
+                ]
+            },
+            {
+                "ville": "Goulmima",
+                "etablissement": [
+                    {"eta":"Néant", "val":"None"}
+                ]
+            },
+            {
+                "ville": "Erfoud",
+                "etablissement": [
+                    {"eta":"Institut Spécialisé de Technologie Appliquée - Erfoud", "val":"istaer"},
+                    {"eta":"Centre de Formation des Gouvernantes - Erfoud", "val":"cfge"}
+                ]
+            }
+        ]
+    }
+]
